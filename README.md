@@ -1,1 +1,1 @@
-# PortfolioProjects include Excel and SQL Portfolio Projects.
+# PortfolioProjects include Microsoft Excel and SQL Portfolio Projects.
